@@ -1,0 +1,605 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\cayxanh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cayxanh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\img\\account_logo.png",
+      "PackagePath": "staticwebassets\\img\\account_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\img\\app_logo.png",
+      "PackagePath": "staticwebassets\\img\\app_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\11191252_Mai-Thị-Ánh-Dương_Lập-trình-web-bán-hàng.docx",
+      "PackagePath": "staticwebassets\\svg\\11191252_Mai-Thị-Ánh-Dương_Lập-trình-web-bán-hàng.docx"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\first_sector_logo.svg",
+      "PackagePath": "staticwebassets\\svg\\first_sector_logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\free-blog-templates.webp",
+      "PackagePath": "staticwebassets\\svg\\free-blog-templates.webp"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz.zip",
+      "PackagePath": "staticwebassets\\svg\\platz.zip"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\details.html",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\details.html"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico-webfont.eot",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico-webfont.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico-webfont.ttf",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico-webfont.woff",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico-webfont.woff2",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico_plus-webfont.eot",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico_plus-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico_plus-webfont.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico_plus-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico_plus-webfont.ttf",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico_plus-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico_plus-webfont.woff",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico_plus-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\font\\socialico_plus-webfont.woff2",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\font\\socialico_plus-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\ai-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\ai-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\ai-2.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\ai-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\arrowy.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\arrowy.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\avatar-2.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\cross-menu.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\cross-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\fleche-nav.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\fleche-nav.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\fleche.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\fleche.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\font-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\font-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\font-2.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\font-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\font-3.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\font-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\font-4.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\font-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\font-5.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\font-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\font-6.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\font-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-ai.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-ai.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-desc.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-desc.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-download.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-download.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-eye.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-eye.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-font.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-font.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-newsletter-01.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-newsletter-01.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-newsletter.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-newsletter.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-photo.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-premium.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-premium.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-psd.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-psd.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-psdfile.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-psdfile.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-search-01.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-search-01.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-search.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-search.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-search.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-search.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-themes.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-themes.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icon-weight.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icon-weight.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icons-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icons-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icons-2.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icons-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\icons-3.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\icons-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\logo-burst.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\logo-burst.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\logo-burst.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\logo-burst.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\loupe.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\loupe.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\mockup-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\mockup-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\mockup-2.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\mockup-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\mockup-3.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\mockup-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\next.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\next.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\prev.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\prev.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\psd-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\psd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\psd-2.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\psd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\psd-3.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\psd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\psd-4.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\psd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\psd-5.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\psd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\psd-6.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\psd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\small-logo-01.png",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\small-logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\small-logo.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\small-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\stripes.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\stripes.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\theme-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\theme-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\theme-2.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\theme-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\theme-3.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\theme-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\theme-4.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\theme-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\title-icon-ps.svg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\title-icon-ps.svg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\img\\ui-1.jpg",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\img\\ui-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\index.html",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\fastclick.min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\fastclick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\jquery-animate-css-rotate-scale.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\jquery-animate-css-rotate-scale.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\jquery.animate-colors-min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\jquery.animate-colors-min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\jquery.animate-shadow-min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\jquery.animate-shadow-min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\jquery.flip.min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\jquery.flip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\jquery.localScroll.min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\jquery.localScroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\jquery.scrollTo.min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\jquery.scrollTo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\combined\\main.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\combined\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lqvin\\RiderProjects\\cayxanh\\cayxanh\\wwwroot\\svg\\platz\\platz\\style.css",
+      "PackagePath": "staticwebassets\\svg\\platz\\platz\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.cayxanh.props",
+      "PackagePath": "build\\cayxanh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.cayxanh.props",
+      "PackagePath": "buildMultiTargeting\\cayxanh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.cayxanh.props",
+      "PackagePath": "buildTransitive\\cayxanh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.cayxanh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

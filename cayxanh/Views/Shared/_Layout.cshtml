@@ -1,0 +1,146 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    @* <link rel="stylesheet" href="~/cayxanh.styles.css" asp-append-version="true"/> *@
+    <!-- Make sure to include jQuery and the Bootstrap JavaScript file(s) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-/G/vDjs9qil1x537qIZQyzEUgzBPOPJ2gFtmVkF4uBtvhMNo1myLqKQp47x5IbXL" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js" integrity="sha512-hkBwYtGqpZKmAMMt9h/mZLvsgkdKgc4G0pyaLV9dhuP83kNsFd8liCsFidqucnlgu4F72m9l/2rGVtUSeifs8w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body style="margin-bottom: 0">
+<header>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <div class="d-flex align-items-center">
+                    <img src="/img/app_logo.png" alt="App Logo" width="50px" height="50px" class="mr-2">
+                    <h5 class="m-0">Cây Xanh</h5>
+                </div>
+            </a>
+            @* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" *@
+            @*         aria-expanded="false" aria-label="Toggle navigation"> *@
+            @*     <span class="navbar-toggler-icon"></span> *@
+            @* </button> *@
+            <div class="navbar-collapse collapse">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Giới Thiệu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Sản Phẩm
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="SanPham">Menu Item 1</a>
+                            <a class="dropdown-item" href="#">Menu Item 2</a>
+                            <a class="dropdown-item" href="#">Menu Item 3</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="BaiViet">Bài Viết</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="LienHe">Liên Hệ</a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <a class="navbar-brand" asp-area="" asp-controller="DangNhap" asp-action="DangNhap">
+                    <img src="/img/account_logo.png" alt="Account Logo" width="30px" height="30px">
+                </a>
+            </div>
+        </div>
+    </nav>
+</header>
+<div>
+    @RenderBody()
+</div>
+
+@* <footer class="footer text-muted"> *@
+@*     <div class="container-fluid"> *@
+@*         <div class="row"> *@
+@*             <div class="col-md-9"> *@
+@*                 <h5>Về Chúng tôi</h5> *@
+@*                 <p>Cây Xanh Store</p> *@
+@*                 <p>123 Láng Hạ, Hà Nội</p> *@
+@*             </div> *@
+@*             <div class="col-md-3"> *@
+@*                 <h5>Contact Us</h5> *@
+@*                 <p>Email: cayxanhstore@gmail.com</p> *@
+@*                 <p>Phone: +84 932 381 245</p> *@
+@*             </div> *@
+@*         </div> *@
+@*         <hr> *@
+@*         <p class="text-center">&copy; 2023 - Cây Xanh Store. - </p> *@
+@*     </div> *@
+@* </footer> *@
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+<style>
+    .sticky-header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+
+    .sticky-header .navbar {
+        background-color: #fff; /* Adjust the background color as needed */
+    }
+</style>
+@* <script> *@
+@*     window.onscroll = function() { makeHeaderSticky() }; *@
+@* *@
+@*     var header = document.querySelector('header'); *@
+@*     var sticky = header.offsetTop; *@
+@* *@
+@*     function makeHeaderSticky() { *@
+@*         if (window.pageYOffset > sticky) { *@
+@*             header.classList.add("sticky-header"); *@
+@*         } else { *@
+@*             header.classList.remove("sticky-header"); *@
+@*         } *@
+@*     } *@
+@* </script> *@
+
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        margin: 0;
+    }    
+    /*.footer {*/
+    /*    background-color: #A6CF98;*/
+    /*    color: white;*/
+    /*}*/
+    
+    /*.footer h5 {*/
+    /*    color: #000000;*/
+    /*}*/
+    
+    /*.footer a {*/
+    /*    color: #A6CF98;*/
+    /*}*/
+    
+    /*.footer hr {*/
+    /*    border-top-color: #A6CF98;*/
+    /*}*/
+    
+</style>
+

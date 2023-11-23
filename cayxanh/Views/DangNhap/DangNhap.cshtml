@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class = "container-wrapper">
+    <div class="login-container">
+        <form class="login-form">
+            <input class = "login-input" type="text" placeholder="Email or Phone" required>
+            <input class = "login-input" type="password" placeholder="Password" required>
+            <button type="submit">Log In</button>
+        </form>
+        <a href="#" class="forgot-password">Forgot Password?</a>
+    </div>
+</div>
+
+<style>
+
+    .login-input{
+        color: #445D48;
+    }
+
+    .container-wrapper {
+                font-family: 'Arial', sans-serif;
+                background-color: #A6CF98;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100vh;
+            }
+    
+            .login-container {
+                background-color: #F5EEC8;
+                padding: 20px;
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                width: 50vh;
+                text-align: center;
+            }
+    
+            .facebook-logo {
+                width: 40px;
+                margin-bottom: 20px;
+            }
+    
+            .login-form input {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #dddfe2;
+                border-radius: 5px;
+                box-sizing: border-box;
+            }
+    
+            .login-form button {
+                background-color: #9FBB73;
+                color: #557C55;
+                padding: 10px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                width: 100%;
+            }
+    
+            .forgot-password {
+                color: #9ADE7B;
+                text-decoration: none;
+                font-size: 14px;
+                margin-top: 10px;
+                display: block;
+            }
+            
+            .forgot-password:hover{
+                color: #9ADE7B;
+            }
+</style>

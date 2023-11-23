@@ -1,0 +1,82 @@
+﻿
+
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div>
+    <div class="container">
+        <div class="row container-fluid">
+        <div class="col-lg-5 text-center">
+            <img class="product-image" src="/img/app_logo.png" alt="Product Image" width="30%">
+        </div>
+            <div class="product-details col-lg-7">
+                <h1 class="product-title">Sen Đá Trắng (White Marble Lotus)</h1>
+                <p class="product-price">3.000.000 VND</p>
+                <p class="product-description">
+                    Sen Đá Trắng thường có hình dáng thanh mảnh, với những chiếc lá sen mở rộng tạo nên hình ảnh tinh tế và thanh lịch. Màu sắc trắng tinh khôi của đá mang lại sự tinh tế và sang trọng cho không gian trang trí nơi đặt.
+                </p>
+                <a href="#" class="add-to-cart-btn">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 90%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-image {
+            max-width: 30%;
+            height: 250px;
+        }
+
+        .product-details {
+            padding: 20px;
+        }
+
+        .product-title {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        .product-price {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #e44d26;
+            margin-bottom: 10px;
+        }
+
+        .product-description {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .add-to-cart-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #e44d26;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .add-to-cart-btn:hover {
+            background-color: #333;
+        }
+    </style>
